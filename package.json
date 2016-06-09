@@ -1,0 +1,26 @@
+{
+  "name": "randomcolor-cli",
+  "version": "1.0.0",
+  "description": "A color for https://github.com/davidmerfield/randomColor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewp/randomcolor-cli.git"
+  },
+  "keywords": [
+    "randomcolor"
+  ],
+  "author": "Matthew Phillips",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/matthewp/randomcolor-cli/issues"
+  },
+  "homepage": "https://github.com/matthewp/randomcolor-cli#readme",
+  "dependencies": {
+    "randomcolor": "^0.4.4",
+    "yargs": "^4.7.1"
+  }
+}
